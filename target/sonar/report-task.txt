@@ -1,0 +1,5 @@
+projectKey=com.mycompany.app:Printable
+serverUrl=http://172.27.59.96:9000
+dashboardUrl=http://172.27.59.96:9000/dashboard/index/com.mycompany.app:Printable
+ceTaskId=AVmltxj4yJWtX11oANof
+ceTaskUrl=http://172.27.59.96:9000/api/ce/task?id=AVmltxj4yJWtX11oANof
